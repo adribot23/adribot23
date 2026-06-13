@@ -8,22 +8,22 @@
 
 ### 🛠️ Stack Tecnológico
 
-**Lenguajes Principales:** <br>
+**Lenguajes Principales:** &nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2303599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Frontend & Diseño:**<br>
+**Frontend & Diseño:** &nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend & Frameworks:**<br>
+**Backend & Frameworks:** &nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Bases de Datos, Sistemas & DevOps:**<br>
+**Bases de Datos, Sistemas & DevOps:** &nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -34,8 +34,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adribot23&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" width="55%" alt="Estadísticas de adribot23" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adribot23&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" width="42%" alt="Lenguajes más usados" />
 </div>
-
-### 📫 Conecta conmigo
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-garc%C3%ADa-%C3%A1lvarez-b99a4b414/)
-* ✉️ [Correo Electrónico](mailto:adrian23@ucm.es)
