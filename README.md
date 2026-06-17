@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Adrián García Álvarez 👋</h1>
+<h1 align="center">¡Hola! Soy Adrián García Álvarez </h1>
 
 <h3 align="center">Estudiante de Ingeniería de Software Universidad Complutense de Madrid (UCM)</h3>
 
@@ -32,6 +32,6 @@
 
 ### 📊 Mis Estadísticas en GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adribot23&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" width="55%" alt="Estadísticas de adribot23" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adribot23&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" width="42%" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adribot23&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&v=1" width="55%" alt="Estadísticas de adribot23" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adribot23&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&v=1" width="42%" alt="Lenguajes más usados" />
 </div>
